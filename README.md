@@ -1,6 +1,6 @@
 ## music-lab
 
-testing with music and stuff
+Testing with music and stuff
 
 
 ## Disclaimer
