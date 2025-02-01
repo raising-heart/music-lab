@@ -1,6 +1,6 @@
-## vid-lab
+## music-lab
 
-Codes and experiments for video analysis.
+testing with music and stuff
 
 
 ## Disclaimer
