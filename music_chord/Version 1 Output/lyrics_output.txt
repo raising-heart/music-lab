@@ -1,0 +1,60 @@
+Lyrics (word-level naive timestamps):
+
+[0.00 - 19.68] It's fine, it's cool You can say that we are nothing, but you know the truth
+[19.68 - 29.04] I think I signed the fool with her arms on like an angel through the car's sunrooms
+[29.04 - 33.12] I don't wanna call it up, but you don't wanna call it up
+[33.12 - 37.12] You only wanna be the one that I call baby
+[37.12 - 40.64] You can kiss our red boys and bars
+[40.64 - 44.80] She'll another shot try to stop the feeling
+[44.80 - 48.96] You can say it's just the way you are
+[48.96 - 52.88] I think I'm new excuse us to be reasoned
+[52.88 - 56.96] Go on, babe, go on, babe
+[56.96 - 61.12] You have to stop the world just to stop the feeling
+[61.12 - 65.20] Go on, babe, go on, babe
+[65.20 - 69.60] You have to stop the world just to stop the feeling
+[69.60 - 81.76] Go on, babe, go on, babe, go on, babe
+[81.76 - 86.56] You have to stop the feeling
+[86.56 - 90.96] Go on, babe, go on, babe
+[90.96 - 94.80] You have to stop the feeling
+[94.80 - 106.72] You can say it's just the way you are
+[106.72 - 110.48] I think I'm new excuse us to be reasoned
+[110.48 - 114.64] Go on, babe, go on, babe
+[114.64 - 118.80] You have to stop the world just to stop the feeling
+[118.80 - 122.88] Go on, babe, go on, babe
+[122.88 - 127.52] You have to stop the world just to stop the feeling
+[127.52 - 135.20] Go on, yeah, yeah
+[135.20 - 139.12] When you wake up next to him in the middle of the night
+[139.12 - 141.20] With your hand and your hands
+[141.20 - 143.20] You're nothing more than his wife
+[143.20 - 145.20] And when you think about me
+[145.20 - 147.28] All of those years ago
+[147.28 - 149.84] You're standing face to face with
+[149.84 - 151.36] I told you so
+[151.36 - 153.92] You know I hate to say
+[153.92 - 155.52] I told you so
+[155.52 - 158.00] You know I hate to say but
+[158.00 - 160.08] I don't even say
+[160.08 - 162.08] You can kiss a heart
+[162.08 - 164.24] But boys and boys
+[164.24 - 166.08] You are another shot
+[166.08 - 168.32] Try to stop the feeling
+[168.32 - 172.40] You can say it's just the way you are
+[172.40 - 176.32] I think I'm new excuse us to be reasoned
+[176.32 - 178.00] Go on, babe
+[178.00 - 180.32] Go on, babe
+[180.32 - 184.16] You have to stop the world just to stop the feeling
+[184.16 - 185.76] Go on, babe
+[185.76 - 187.44] Go on, babe
+[187.44 - 190.64] You have to stop the world just to stop
+[190.64 - 192.64] The feeling
+[192.64 - 194.88] You have to stop the world
+[194.88 - 196.00] Just to stop
+[196.00 - 196.96] The feeling
+[196.96 - 198.88] You have to stop the world
+[198.88 - 200.48] Just to stop
+[200.48 - 201.60] The feeling
+[201.60 - 203.92] You have to stop the world
+[203.92 - 205.28] Just to stop
+[205.28 - 208.80] That I have existed in
+
+[INFO] End of naive word timestamps.
