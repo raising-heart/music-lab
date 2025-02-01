@@ -224,7 +224,7 @@ if __name__ == "__main__":
     processed_audio = preprocess_audio(input_audio_file)
 
     # 2) Transcription
-    transcription_result = transcribe_lyrics(processed_audio, model_size="large")
+    transcription_result = transcribe_lyrics(processed_audio, model_size="base")
 
     # 2B) Word-level naive splitting
     segments_data = split_segments_into_words(transcription_result)
